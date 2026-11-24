@@ -1,4 +1,4 @@
-Employee_ID,Gender,MaritalStatus,Grade,Employee_Count,Job_Satisfaction,MonthlyIncome,Monthly,Age,EmploymentType,Field1,Field2,Field3,Field4,Field5,Field6,Country,Field7
+Employee_ID,Employee_Gender,MaritalStatus,Grade,Employee_Count,Job_Satisfaction,MonthlyIncome,Monthly,Age,EmploymentType,Field1,Field2,Field3,Field4,Field5,Field6,Country,Field7
 1,Male,Single,2,1,4,5993,1949,41,Permanent,1,18,5,6,4,4,United Kingdom,2
 2,Male,Married,2,1,2,5130,24907,49,Contractual,26,3,3,3,10,7,United States,3
 3,Male,Single,1,1,3,2090,2396,37,Contractual,14,4,3,3,0,0,Australia,4
